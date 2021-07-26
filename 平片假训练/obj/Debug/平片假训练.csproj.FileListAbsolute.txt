@@ -1,0 +1,10 @@
+E:\source\平片假训练\平片假训练\bin\Debug\平片假训练.exe.config
+E:\source\平片假训练\平片假训练\bin\Debug\平片假训练.exe
+E:\source\平片假训练\平片假训练\bin\Debug\平片假训练.pdb
+E:\source\平片假训练\平片假训练\obj\Debug\平片假训练.csproj.AssemblyReference.cache
+E:\source\平片假训练\平片假训练\obj\Debug\平片假训练.Form1.resources
+E:\source\平片假训练\平片假训练\obj\Debug\平片假训练.Properties.Resources.resources
+E:\source\平片假训练\平片假训练\obj\Debug\平片假训练.csproj.GenerateResource.cache
+E:\source\平片假训练\平片假训练\obj\Debug\平片假训练.csproj.CoreCompileInputs.cache
+E:\source\平片假训练\平片假训练\obj\Debug\平片假训练.exe
+E:\source\平片假训练\平片假训练\obj\Debug\平片假训练.pdb

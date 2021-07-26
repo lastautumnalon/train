@@ -1,0 +1,5 @@
+﻿  BackGroundProcess.cpp
+E:\source\平片假训练\BackGroundProcess\BackGroundProcess.cpp(47,27): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\source\平片假训练\BackGroundProcess\BackGroundProcess.cpp(63,27): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\source\平片假训练\BackGroundProcess\BackGroundProcess.cpp(78,27): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  BackGroundProcess.vcxproj -> E:\source\平片假训练\Debug\BackGroundProcess.exe
